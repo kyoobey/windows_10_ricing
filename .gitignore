@@ -1,0 +1,5 @@
+#folders
+.sublime_workspaces/
+
+#chrome pak file
+*.pak
